@@ -1,0 +1,5 @@
+1. 知道 Django 中 Router 是怎么实现的吗？和 Flask 中有什么区别？
+2. Python 中的协程是怎么实现的？
+3. Python 如何实现 AOP ？ Java 又是怎么实现的？装饰器有什么用？
+4. Python 中怎样提高递归函数的运算效率？例如斐波那契数列？
+5. functools 中 wraps 是做什么的，如何实现？ 
